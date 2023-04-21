@@ -26,6 +26,8 @@
 
 `Delete`: <kbd>space</kbd> + <kbd>'</kbd>
 
+`Esc`: <kbd>space</kbd> + <kbd>q</kbd>
+
 ### 组合键映射
 
 #### 窗口切换

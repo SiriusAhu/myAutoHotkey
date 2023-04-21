@@ -31,6 +31,7 @@ space & 9::Send {space}{space}{space}{space}{space}{space}{space}{space}{space}
 ;space & [::Send !{Tab}
 space & ]::Send ^{Tab}
 
+
 ; *** 
 space & c:: Send ^c
 space & x:: Send ^x
@@ -57,6 +58,7 @@ g & l:: Send ^+{right}
 
 
 
+
 ; -> single key
 
 ; *** space + ;' 
@@ -72,5 +74,7 @@ u:: Send {home}
 i:: Send {end}
 o:: Send {Pgup}
 p:: Send {Pgdn}
+
+q::Send {Esc}
 
 return
